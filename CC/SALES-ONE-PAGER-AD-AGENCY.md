@@ -23,9 +23,13 @@ We are high-touch, not high-volume. From our luxury recording suites in DC and B
 
 ---
 
-## Proof Point: The "No Notes" Result
+## Proof Points: The "No Notes" Result
+
 > *"Literally no notes, it's perfect!"*
 > — **Chris Alan Grabar**, Audio Director (Marvel Snap)
+
+> *"Phil and I really appreciate the hard work and how flexible and accommodating Clean Cuts has been with a really difficult project. The turnaround was really tight... and you guys still knocked it out of the park."*
+> — **Brent Airey**, The Baltimore Ravens
 
 **Our Partners:**
 [Logos: Higher Ground, HBO Max, Showtime, NHL, National Geographic, Audible]

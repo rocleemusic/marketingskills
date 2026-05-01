@@ -4,29 +4,24 @@ This document is your master roadmap for familiarizing yourself with the generat
 
 ---
 
-## 1. Familiarization Path (Read Order)
-To fully understand the "why" behind the strategy, read the files in this order:
+## 1. CEO Executive Brief (Present This)
+*Max 5 points on the core strategy to transform Clean Cuts into a "Strategic Creative Partner."*
 
-1.  **[Product-Marketing-Context](file:///h:/_CLAUDE/marketingskills/CC/product-marketing-context.md)**: The "Brain" of the project. This defines who you are and why you win.
-2.  **[Competitor Landscape Summary](file:///h:/_CLAUDE/marketingskills/competitor-profiles/_summary.md)**: Understand the battleground (Local vs. Volume vs. Prestige).
-3.  **[RevOps Strategy](file:///h:/_CLAUDE/marketingskills/CC/REVOPS-LIFECYCLE.md)**: The operational "Engine" (SLA, Lead Scoring).
-4.  **[Sales Enablement](file:///h:/_CLAUDE/marketingskills/CC/SALES-ONE-PAGER-AD-AGENCY.md)**: The actual weapons you'll use to close deals.
-5.  **[Cold Outreach Sequences](file:///h:/_CLAUDE/marketingskills/CC/COLD-EMAIL-OUTREACH.md)**: The scripts for going on the offensive.
+1.  **Pivot to Prestige Sound**: Move away from commodity "audio post" to become a **Strategic Creative Partner**. We compete on artistry and reliability, not just studio hours.
+2.  **The Authority Hook**: Lead every pitch with the **"Obama/Higher Ground"** and **"Marvel"** factors. This "Prestige Shield" justifies our premium pricing and neutralizes trust barriers instantly.
+3.  **The "Wedge" Model**: Use our luxury recording suites as the hospitable "first yes." We capture visiting talent with world-class service (and lunches), then pivot to win the full **Post-Production** contract.
+4.  **The Zero-Friction SLA**: Implement a guaranteed **60-minute response time**. We win the "Producer's Peace of Mind" by being more responsive and reliable than any freelancer or generalist rival.
+5.  **Targeted High-ROI Offense**: Focus specifically on **Ad Agencies without in-house audio** and **Prestige Audiobook Publishers** where our "VIP experience" is a massive competitive advantage.
 
 ---
 
-## 2. CEO Executive Summary
-*Copy and paste this into a slide or email for your briefing.*
+## 2. CEO Reading Order
+*To see the full picture and provide feedback on the direction, please review these 4 documents in order:*
 
-**Goal:** Transform Clean Cuts from a "High-End Vendor" into a "Strategic Creative Partner" for elite agencies, networks, and publishers.
-
-### The Core Strategy: "Sound Like You Mean It"
-We are moving away from commodity "audio post" and into **Prestige Sound**. While rivals fight over scale and volume, we own the **Artistry and Reliability** gap.
-
-### The 3 High-ROI Differentiators:
-1.  **The Authority Hook**: Lead with the "Obama/Higher Ground" factor. If the Obamas trust us, the prospect's project is safe.
-2.  **The "Wedge" Strategy**: Use our luxury DC/Baltimore recording suites as the hospitable "first yes." Once talent is in the room, we win the post-production contract.
-3.  **The Zero-Friction SLA**: A guaranteed **60-minute response time**. We win against freelancers by being more reliable and more professional.
+1.  **[Product Marketing Context](file:///h:/_CLAUDE/marketingskills/CC/product-marketing-context.md)** — *The "Why": Our new positioning and target personas.*
+2.  **[Competitor Landscape](file:///h:/_CLAUDE/marketingskills/competitor-profiles/_summary.md)** — *The "Battleground": Where we win against local and national rivals.*
+3.  **[Sales One-Pager (Ad Agencies)](file:///h:/_CLAUDE/marketingskills/CC/SALES-ONE-PAGER-AD-AGENCY.md)** — *The "Weapon": How we actually pitch the value to elite clients.*
+4.  **[Execution Runbook](file:///h:/_CLAUDE/marketingskills/CC/MASTER-GUIDE.md#the-4-week-execution-runbook)** — *The "How": The tactical steps to launch the plan over the next 30 days.*
 
 ---
 
