@@ -1,9 +1,5 @@
 # Clean Cuts Mastery & Execution Guide
 
-This document is your master roadmap for familiarizing yourself with the generated strategy, presenting it to the CEO, and executing the 4-week launch runbook.
-
----
-
 ## 1. CEO Executive Brief (Present This)
 *Max 5 points on the core strategy to transform Clean Cuts into a "Strategic Creative Partner."*
 

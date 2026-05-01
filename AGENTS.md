@@ -162,6 +162,14 @@ Follow the [Conventional Commits](https://www.conventionalcommits.org/) specific
 - [ ] `SKILL.md` is under 500 lines
 - [ ] No sensitive data or credentials
 
+## Agent Execution Discipline
+
+To ensure reliability and prevent "Hallucination of Action," agents MUST follow these rules:
+
+1.  **Tool First, Talk Second**: Never tell the user a file is "updated" or "created" until the corresponding tool (`write_to_file`, `replace_file_content`, etc.) has returned a `DONE` status.
+2.  **Verified Execution**: If an agent drafts content in a chat response, it MUST explicitly call the tool to save that content to the filesystem in the same turn.
+3.  **No Premature Confirmation**: Avoid phrases like "I am updating it now" followed by a summary if the tool call isn't included in the same turn.
+
 ## Tool Integrations
 
 This repository includes a tools registry for agent-compatible marketing tools.
